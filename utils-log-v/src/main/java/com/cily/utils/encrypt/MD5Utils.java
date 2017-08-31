@@ -7,8 +7,8 @@ package com.cily.utils.encrypt;
  */
 
 public class MD5Utils {
-//    static {
-//
-//    }
+    static {
+
+    }
 
 }
